@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+}
+body {
+  font: normal 16px helvetica;
+  margin: 10px;
+  background-color: green;
+}
+
+ul.guide-main li{
+  list-style: none;padding: 0;
+  color: black;
+}
+
+ul.guide-main li{
+  display: inline;
+}
+.main-header{
+  color: white;
+  text-align: center;
+  background-color: red;
+  border-left: 5px;
+
+}
+.styling-guide {
+  color: black;
+  background-color: red;
+  border-radius: 5px;
+  padding: 5px 10px;
+  transition: all .5s;
+
+}
