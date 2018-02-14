@@ -7,6 +7,8 @@ body {
   font: normal 16px helvetica;
   margin: 10px;
   background-color: green;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 ul.guide-main li{
