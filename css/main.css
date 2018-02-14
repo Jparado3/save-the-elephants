@@ -9,7 +9,16 @@ body {
   background-color: green;
   background-repeat: no-repeat;
   background-size: cover;
+  height: 100%;
 }
+
+
+.column {
+  display: block;
+  border: solid;
+}
+
+
 
 ul.guide-main li{
   list-style: none;padding: 0;
