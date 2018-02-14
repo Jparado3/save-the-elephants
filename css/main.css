@@ -4,12 +4,21 @@
 
 body {
   background-image: url("save-the-phants.jpg");
-  font: normal 16px helvetica;
+  font: normal 20px helvetica, arial, sans-serif;
   margin: 10px;
   background-color: green;
   background-repeat: no-repeat;
   background-size: cover;
+  height: 100%;
 }
+
+
+.column {
+  display: block;
+  border: solid;
+}
+
+
 
 ul.guide-main li{
   list-style: none;padding: 0;
